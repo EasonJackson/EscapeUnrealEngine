@@ -1,0 +1,9 @@
+*/Intermediate
+*/Binaries
+*/DerivedDataCache
+*/Build
+*/Saved
+*/.vs
+*/Content
+*.VC.db
+*.suo
